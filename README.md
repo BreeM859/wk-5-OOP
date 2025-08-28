@@ -8,7 +8,7 @@ This project demonstrates the core concepts of **Object-Oriented Programming (OO
 Create classes for a **Customer** and a **Employee**. The **Customer** class includes attributes like name, email, while the **VEmployee** class inherits from **customer** and overrides certain methods. This assignment demonstrates key OOP principles like **Encapsulation** and **Inheritance**.
 
 ### 2. **Polymorphism Challenge**  
-This challenge demonstrates **Polymorphism** by creating classes for various **Vehicles** (Car, Plane, Boat). Each class implements a `move()` method, and the objects respond differently based on their class, highlighting polymorphic behavior.
+This challenge demonstrates **Polymorphism** by creating classes for various **Vehicles** (Car, Plane, Boat) and **Animals** (Dog, Fish, Bird).. Each class implements a `move()` method, and the objects respond differently based on their class, highlighting polymorphic behavior.
 
 ## Key Concepts Covered
 - **Classes & Objects**: Modeling real-world entities like superheroes, villains, vehicles, and animals.
